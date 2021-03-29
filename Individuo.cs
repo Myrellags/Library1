@@ -59,7 +59,7 @@ namespace Library1
             _apelido = apelido;
             _dataNascimento = dataNasc;
         }
-        //obs: argumentos com valoures por default devem ser vir a direita de todos
+        //obs: argumentos com valoures por default devem vir a direita de todos
         public Individuo(string nome, string apelido = "")
         {
             _nome = nome;
